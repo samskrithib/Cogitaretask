@@ -1,0 +1,16 @@
+circle {
+  fill: yellow;
+}
+
+rect {
+  fill: red;
+}
+
+#pathAnimation{
+  border: dotted cadetblue 1px;
+  border-radius: 10px;
+  background-color: beige;
+}
+.box{
+  background-color: white;
+}
