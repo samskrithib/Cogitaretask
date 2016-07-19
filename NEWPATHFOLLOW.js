@@ -23,7 +23,9 @@ var app = angular.module("myApp", ['ngRoute'])
     .controller("mainCtrl", ['$scope', function ($scope) {
         $scope.title = "Train Simulation Exercise";
         $scope.dot= "Yellow dot represents train travelling from Harrow to Elephant & Castle";
-        $scope.dot1 = "Purple dot represents train travelling from Elephant & Castle to Harrow"
+        $scope.dot1 = "Purple dot represents train travelling from Elephant & Castle to Harrow";
+
+        //test comment - pranav
 
 
         queue()
